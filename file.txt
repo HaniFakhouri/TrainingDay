@@ -1,1 +1,2 @@
 This is master!
+This is from added as from branch 1.
