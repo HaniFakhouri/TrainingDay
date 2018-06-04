@@ -7,3 +7,6 @@ Created branch 2.
 Created branch 3.
 Modified branch 1
 Modifying branch 1
+
+This is base
+   This is child
